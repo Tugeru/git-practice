@@ -1,2 +1,3 @@
 This is my personal practice repo for learning git fundamentals.
 Course: ITE 3 - Integrative Programming and Technologies 2
+Status: Completed Week 3 Git activity.
