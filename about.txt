@@ -1,1 +1,2 @@
 This is my personal practice repo for learning git fundamentals.
+Course: ITE 3 - Integrative Programming and Technologies 2
